@@ -1,0 +1,73 @@
+﻿SUSITHA C
+Phone: 9025918248    Email: susitha.c2023ai-ds@sece.ac.in                         GitHub LinkedIn 
+
+EDUCATION 
+
+B. Tech AIDS - Sri Eshwar College of Engineering | CGPA : 7.36 (upto 3rd sem) 2023-2027 
+HSC- Holy Crosss Matriculation  Higher | 87% 2022-2023 
+Secondary School 
+
+  
+SSLC- Holy Cross Matriculation  Higher | Pass 2020-2021 
+Secondary School 
+
+PROJECTS 
+
+ 
+Accessible Voting Machine for Visually Impaired Users 
+Developed an inclusive voting system using Arduino and ESP8266, enabling voice-command and Braille-based voting. 
+Integrated MP3 module for real-time audio prompts via headphones, ensuring private and accessible interaction for 
+visually impaired users. 
+ 
+PowerTrack: Electricity Bill Monitoring System 
+Designed a hardware-software integrated system that captures electricity bill data via camera, processes it using OCR 
+(Tesseract + OpenCV), and displays extracted details (units, amount, due date) on a user-friendly interface. Includes real-
+time hardware alerts and dashboard insights to promote timely payments and energy awareness. 
+ 
+Tree Species Detection System 
+
+Built an AI-powered image classification model using CNN (TensorFlow) and OpenCV to detect tree species from 
+images of leaves, fruits, or full trees. Designed an intuitive interface to display species names with reference 
+visuals, supporting environmental education and biodiversity tracking. 
+
+ INTERNSHIPS 
+
+1. MERN – Gzoft Solutions                                                                                                                             Jan 2025 
+
+Completed a MERN stack internship at G-Zoft Solutions, gaining hands-on experience in full-stack development and 
+real-world project implementation. 
+
+2. Code Alpha Internship – Frontend Development                                                                                    Mar 2025 
+
+Gained hands-on experience in frontend development, using HTML, CSS, JavaScript, and React to build responsive, 
+user-friendly web applications. Contributed to real-world projects, enhancing UI/UX design and optimizing performance. 
+
+ CERTIFICATIONS 
+
+Boot strap for Beginers |   Udemy 2024 
+
+2025 
+Affective computing | NPTEL 
+
+|  Udemy 2024 
+Css Javascript 
+
+ 
+andphp   
+
+ 
+  2023
+
+Sql certificate |  Skilrack 
+ 
+ 
+
+         SKILLS 
+
+         Programming Languages: C , C++, Python,Java,Embeded C, JavaScript, HTML 
+
+AI & ML: Deep Learning, Machine Learning,  
+
+Databases: SQL,mongodb 
+
+IoT Skills: Arduino, ESP32, ESP8266, Raspberry Pi, Wireless Communication, Sensor Integration.
